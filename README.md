@@ -1,2 +1,4 @@
 # Retrofit-FacebookShimmer
-Get data from server and parse using Retrofit and GSON parser. Display data with recycle view. Show facebook shimmer effect until data load completed.
+1. Get data from server and parse using Retrofit and GSON parser
+2. Display data with recycle view. 
+3. Show facebook shimmer effect until data load completed.
