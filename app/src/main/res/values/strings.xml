@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shimmer Effect</string>
+    <string name="STR_LOADING">Loading....</string>
+    <string name="STR_FETCH_FAIL">Something went wrong. Please try later!</string>
+    <string name="STR_NO_INTERNET">Please connect to the internet</string>
+    <string name="STR_MNEU">Menu</string>
+</resources>

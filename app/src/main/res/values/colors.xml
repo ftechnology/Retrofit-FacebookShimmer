@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e0e0e0</color>
+    <color name="colorPrimaryDark">#aeaeae</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorOffWhite">#fafafa</color>
+    <color name="colorGray">#646464</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="collapse_area_color">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorBlue">#147efb</color>
+    <color name="colorDeepBlue">#1565C0</color>
+    <color name="colorGreen">#3fd25f</color>
+    <color name="colorDeepGreen">#43A047</color>
+    <color name="color_silver">#e1e8e9</color>
+    <color name="placeholder_color">#dddddd</color>
+</resources>
